@@ -29,10 +29,13 @@ This simulator was built using Unity 3D Game Engine on top of [Udacity's Self-Dr
 
 6. View Scripts. Scripts are what make all the different mechanics of the simulator work and they are located in two different directories, the first is Assets/1_SelfDrivingCar/Scripts which mostly relate to the UI and socket connections. The second directory for scripts is Assets/Standard Assets/Vehicle/Car/Scripts and they control all the different interactions with the car.
 
-7. Building a new track. You can easily build a new track by using the prebuilt road prefabs located in Assets/RoadKit/Prefabs click and drag the road prefab pieces onto the editor, you can snap road pieces together easily by using vertex snapping by holding down "v" and dragging a road piece close to another piece.
 
 ### Example bounding box generations
+Normal View
 ![Self-Driving Car Simulator](./Boundingboxes/Capture1.JPG)
+Low light condition
 ![Self-Driving Car Simulator](./Boundingboxes/Capture2.JPG)
+Back Perspective
 ![Self-Driving Car Simulator](./Boundingboxes/Capture3.JPG)
+Top Perspective
 ![Self-Driving Car Simulator](./Boundingboxes/capture4.JPG)
