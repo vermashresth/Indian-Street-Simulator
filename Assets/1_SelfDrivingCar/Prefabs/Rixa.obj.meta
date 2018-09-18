@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 5f549a9702cbcde4cb7aa1760e0096c7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boot_ok
+    100002: bump_front_ok
+    100004: ChamferBox001
+    100006: ChamferBox002
+    100008: ChamferBox003
+    100010: ChamferBox004
+    100012: Object001
+    100014: Plane_002
+    100016: //RootNode
+    100018: Wheel
+    100020: Wheel001
+    100022: Wheel002
+    100024: windscreen_ok
+    400000: boot_ok
+    400002: bump_front_ok
+    400004: ChamferBox001
+    400006: ChamferBox002
+    400008: ChamferBox003
+    400010: ChamferBox004
+    400012: Object001
+    400014: Plane_002
+    400016: //RootNode
+    400018: Wheel
+    400020: Wheel001
+    400022: Wheel002
+    400024: windscreen_ok
+    2100000: boot_okMat
+    2100002: bump_front_okMat
+    2100004: ChamferBox001Mat
+    2100006: ChamferBox002Mat
+    2100008: ChamferBox003Mat
+    2100010: ChamferBox004Mat
+    2100012: Object001Mat
+    2100014: Plane_002Mat
+    2100016: WheelMat
+    2100018: Wheel001Mat
+    2100020: Wheel002Mat
+    2100022: windscreen_okMat
+    2100024: Mat7
+    2100026: Mat2
+    2100028: Mat1
+    2100030: Mat11
+    2100032: Mat10
+    2100034: Mat15
+    2100036: Mat14
+    2100038: Mat13
+    2100040: Mat4
+    2100042: Mat16
+    2100044: Mat9
+    2100046: Mat8
+    2100048: Mat6
+    2100050: Mat3
+    2100052: Mat5
+    2100054: Material__97
+    2300000: boot_ok
+    2300002: bump_front_ok
+    2300004: ChamferBox001
+    2300006: ChamferBox002
+    2300008: ChamferBox003
+    2300010: ChamferBox004
+    2300012: Object001
+    2300014: Plane_002
+    2300016: Wheel
+    2300018: Wheel001
+    2300020: Wheel002
+    2300022: windscreen_ok
+    3300000: boot_ok
+    3300002: bump_front_ok
+    3300004: ChamferBox001
+    3300006: ChamferBox002
+    3300008: ChamferBox003
+    3300010: ChamferBox004
+    3300012: Object001
+    3300014: Plane_002
+    3300016: Wheel
+    3300018: Wheel001
+    3300020: Wheel002
+    3300022: windscreen_ok
+    4300000: boot_ok
+    4300002: bump_front_ok
+    4300004: ChamferBox001
+    4300006: ChamferBox002
+    4300008: ChamferBox003
+    4300010: ChamferBox004
+    4300012: Object001
+    4300014: Plane_002
+    4300016: Wheel
+    4300018: Wheel001
+    4300020: Wheel002
+    4300022: windscreen_ok
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

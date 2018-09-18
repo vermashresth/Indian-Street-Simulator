@@ -13,11 +13,16 @@ public class getbounds : MonoBehaviour {
 	void Update () {
         //CalculateBounds();
 	}
+    public Texture2D border;
     void OnGUI()
     {
-        GUI.Box(GUIRectWithObject(gameObject), gameObject.name);
+        //GUI.skin.box.stretchHeight = true;
+        //GUI.skin.box.stretchWidth = true;
+        //GUI.Box(GUIRectWithObject(gameObject), border);
+        GUI.DrawTexture(GUIRectWithObject(gameObject), border, ScaleMode.StretchToFill);
     }
     public Bounds bounds;
+    
     public Rect GUIRectWithObject(GameObject go)
     {
         {
