@@ -35,4 +35,4 @@ This simulator was built using Unity 3D Game Engine on top of [Udacity's Self-Dr
 ![Self-Driving Car Simulator](./Boundingboxes/Capture1.JPG)
 ![Self-Driving Car Simulator](./Boundingboxes/Capture2.JPG)
 ![Self-Driving Car Simulator](./Boundingboxes/Capture3.JPG)
-![Self-Driving Car Simulator](./Boundingboxes/Capture4.JPG)
+![Self-Driving Car Simulator](./Boundingboxes/capture4.JPG)
