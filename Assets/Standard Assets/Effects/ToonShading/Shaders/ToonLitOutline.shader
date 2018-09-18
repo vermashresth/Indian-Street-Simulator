@@ -1,17 +1,3 @@
-Shader "Toon/Lit Outline" {
-	Properties {
-		_Color ("Main Color", Color) = (0.5,0.5,0.5,1)
-		_OutlineColor ("Outline Color", Color) = (0,0,0,1)
-		_Outline ("Outline width", Range (.002, 0.03)) = .005
-		_MainTex ("Base (RGB)", 2D) = "white" {}
-		_Ramp ("Toon Ramp (RGB)", 2D) = "gray" {} 
-	}
-
-	SubShader {
-		Tags { "RenderType"="Opaque" }
-		UsePass "Toon/Lit/FORWARD"
-		UsePass "Toon/Basic Outline/OUTLINE"
-	} 
-	
-	Fallback "Toon/Lit"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7d8a7ee18a3cc75378caa9713002938b90eee3385d4fbf3acb3a024274e9469
+size 452
