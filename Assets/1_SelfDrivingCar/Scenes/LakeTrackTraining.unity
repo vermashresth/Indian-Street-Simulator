@@ -7397,6 +7397,30 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1182210421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1182210418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 946053724abac5d4294b96365e6a102e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  circuitObject: {fileID: 1932927585}
+  circuit: {fileID: 1932927585}
+  routeSpeed: 50
+  lookAheadDistance: 100
+  varyingSpeed: 0
+  initialSpeed: 0
+  rateOfChange: 1
+  waypointSpeedFactors: []
+  invokeMethods: 0
+  invokeWaypointEnabled: 
+  invokeNames: []
+  invokeDelay: []
+  invokeObject: []
 --- !u!1001 &1186208944
 Prefab:
   m_ObjectHideFlags: 0
